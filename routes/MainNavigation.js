@@ -6,12 +6,14 @@ import Ionicons from 'react-native-vector-icons/Ionicons';
 import { StatusBar } from 'react-native';
 
 // Importing screens
+import LandingScreen from './screens/LandingScreen';
 import HomeScreen from './screens/HomeScreen';
 import MapScreen from './screens/MapScreen';
 import SettingsScreen from './screens/SettingsScreen';
 import EventsScreen from './screens/EventsScreen';
 
 //Screen names
+const LandingName = 'Landing'
 const HomeName = 'Home';
 const MapName = 'Map';
 const SettingsName = 'Settings';
