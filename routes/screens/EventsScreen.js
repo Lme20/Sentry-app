@@ -1,3 +1,5 @@
+// Last Updated: 2023-08-15
+
 import * as React from 'react';
 import { View, Text, StyleSheet, ScrollView } from 'react-native';
 import EventsComponent from '../../components/EventsComponent';
