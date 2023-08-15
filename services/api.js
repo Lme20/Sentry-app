@@ -1,3 +1,5 @@
+// Last Updated: 2023-08-15
+
 import axios from 'axios';
 
 const API_URL = 'https://polisen.se/api';

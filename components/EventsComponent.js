@@ -1,3 +1,5 @@
+// Last Updated: 2023-08-15
+
 import React, { useEffect, useState } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 import { getEvents } from '../services/api'; // adjust the path as per your file structure
